@@ -1,2 +1,2 @@
 ใช้เครื่องมือ Steganography Online
-![student](/IMG/ดาวน์โหลด.png)
+![student](IMG/Christmas.png)
