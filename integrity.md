@@ -3,7 +3,7 @@
 ## Definition  
 
 ### จาก [lakefs](https://lakefs.io/data-quality/data-integrity-vs-data-quality/) 
-- **Purging:** An organization usually starts by setting out processes, rules, and standards that control how data is gathered, stored, accessed, changed, and used. This is done to ensure a high level of data integrity. 
+- **Integrity:** An organization usually starts by setting out processes, rules, and standards that control how data is gathered, stored, accessed, changed, and used. This is done to ensure a high level of data integrity. 
 Throughout the data lifecycle, teams can utilize a variety of technologies and cloud environments to preserve data integrity in line with their set data governance principles. This entails developing, updating, and enforcing policies, regulations, and standards to prevent mistakes, data loss, data corruption, mistreatment of sensitive or regulated data, and data breaches.
 
 - **แปล (ChatGPT):** องค์กรมักเริ่มต้นโดยการกำหนดกระบวนการ กฎ และมาตรฐานที่ควบคุมวิธีการเก็บข้อมูล การเข้าถึง การเปลี่ยนแปลง และการใช้งานข้อมูล เพื่อให้มั่นใจว่ามีความสมบูรณ์ของข้อมูลในระดับสูง
@@ -12,7 +12,7 @@ Throughout the data lifecycle, teams can utilize a variety of technologies and c
 ตลอดวงจรชีวิตข้อมูล ทีมต่างๆ สามารถใช้เทคโนโลยีและสภาพแวดล้อมคลาวด์ที่หลากหลายเพื่อรักษาความสมบูรณ์ของข้อมูลให้สอดคล้องกับหลักการกำกับดูแลข้อมูลที่กำหนดไว้ ซึ่งเกี่ยวข้องกับการพัฒนา ปรับปรุง และบังคับใช้ นโยบาย ข้อบังคับ และมาตรฐาน เพื่อป้องกันความผิดพลาด การสูญหายของข้อมูล ความเสียหายของข้อมูล การจัดการข้อมูลที่ละเอียดอ่อนหรือข้อมูลที่อยู่ภายใต้การควบคุม และการละเมิดข้อมูล
 
 
-## Purging in Myself  
+## Integrity in Myself  
 
 ### Objective  
 มาตรฐานการควบคุมวิธีการเก็บข้อมูล การเข้าถึง การเปลี่ยนแปลง และการใช้งานข้อมูล เพื่อให้มั่นใจว่ามีความสมบูรณ์ของข้อมูลในระดับสูง 
